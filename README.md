@@ -1,6 +1,6 @@
 # Travel Blog
 
-Welcome to my Travel Blog! This platform is dedicated to sharing my adventures, travel tips, and destination guides as I explore the world.
+Welcome to my Travel Blog! This platform is dedicated to sharing my adventures, travel tips, and destination guides as I explore the world. Please note that the content is currently not up to date with my expectations, but I plan to improve it in the future.
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to my Travel Blog! This platform is dedicated to sharing my adventures, 
 
 ## Development
 
-This project is built using HTML and CSS. It aims to provide an engaging and informative platform for travel enthusiasts.
+This project is built using HTML, CSS, and JavaScript. It aims to provide an engaging and informative platform for travel enthusiasts. While the current version may not fully meet my expectations, I am committed to enhancing it over time.
 
 
 ## Acknowledgements
